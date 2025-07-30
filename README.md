@@ -1,2 +1,2 @@
 ## Doc Snap
-A react docmini app. 
+A ReactJS docmini app. 
